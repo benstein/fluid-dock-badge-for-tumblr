@@ -1,0 +1,26 @@
+=== Project Ligerhorn
+ 
+- [Code on GitHub](http://github.com/benstein/fluid-dock-badge-for-tumblr)
+ 
+=== Description
+ 
+Display a Fluid dock badge for the Tumblr Dashboard with the number of new posts (works with Tumblr v5)
+
+=== Installation
+
+Find the script on http://userscripts.org/scripts/show/31623 and click "Install".  Or manually install in your Fluid Userscripts directory.
+
+=== Authors
+
+ - [Benjamin Stein](mailto:ben@benjaminste.in)
+
+=== Acknowledgements
+
+Thanks to the great team at Tumblr for such a great application and Kenneth Bromberg for his tireless efforts helping me debug.
+ 
+
+=== License
+
+Copyright (c) 2008 Mobile Commons
+See MIT-LICENSE in this directory.
+
